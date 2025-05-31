@@ -1,16 +1,20 @@
-## Hi there 👋
+## 👋 Hi there, I’m Denys!
 
-<!--
-**denys-stupakov/denys-stupakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Education**  
+**Technical University of Košice (TUKE)** — *BSc in Computer Modelling (3rd Year)*  
+*Faculty of Electrical Engineering and Informatics (FEI)* | 2023 – Present  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+- **Languages**: Java, C, C++, Python, MATLAB  
+- **Web**: HTML, CSS  
+- **Frameworks**: Spring, PyGame  
+
+---
+
+<!-- Optional: Add more sections -->
+## 📫 Let's Connect
+
+Feel free to check out my repositories and reach out if you'd like to collaborate!
